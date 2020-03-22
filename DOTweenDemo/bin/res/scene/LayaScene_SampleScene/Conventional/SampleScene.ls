@@ -63,18 +63,18 @@
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						-30.5,
-						15.9,
-						-2.8
+						-59.6,
+						96.2,
+						0.3
 					],
 					"rotation":[
-						0.129139,
-						0.6952144,
-						0.1223016,
-						-0.6964498
+						0.4307781,
+						0.5607409,
+						0.4252477,
+						-0.5649462
 					],
 					"scale":[
-						1,
+						0.76246,
 						1,
 						1
 					],
@@ -105,14 +105,14 @@
 				"type":"Sprite3D",
 				"instanceID":1,
 				"props":{
-					"name":"骰子1",
+					"name":"骰子4",
 					"active":true,
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						7.9,
-						-3.31,
-						6.2
+						-33.84,
+						37.76,
+						-1.26
 					],
 					"rotation":[
 						0,
@@ -152,11 +152,11 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Prefabs/骰子金属彩色-立方体.lm",
+							"meshPath":"Assets/Prefabs/骰子彩色-立方体.lm",
 							"enableRender":true,
 							"materials":[
 								{
-									"path":"Assets/Materials/金属白.lmat"
+									"path":"Assets/Materials/2.lmat"
 								}
 							]
 						},
@@ -186,11 +186,11 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱.lm",
+									"meshPath":"Assets/Prefabs/骰子彩色-圆柱.lm",
 									"enableRender":true,
 									"materials":[
 										{
-											"path":"Assets/Materials/金属红.lmat"
+											"path":"Assets/Materials/1.lmat"
 										}
 									]
 								},
@@ -247,11 +247,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_1_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -282,11 +282,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -332,7 +332,7 @@
 													"layer":0,
 													"position":[
 														-0.5353843,
-														0,
+														-1.421085E-16,
 														-0.5303122
 													],
 													"rotation":[
@@ -346,11 +346,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_1.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -381,11 +381,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -416,11 +416,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_2_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -466,7 +466,7 @@
 													"layer":0,
 													"position":[
 														0.3731108,
-														-5.684342E-16,
+														0,
 														-0.3731284
 													],
 													"rotation":[
@@ -480,11 +480,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_3_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -515,11 +515,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_4.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -536,7 +536,7 @@
 													"layer":0,
 													"position":[
 														0.3730376,
-														-5.684342E-16,
+														0,
 														0.3727022
 													],
 													"rotation":[
@@ -550,11 +550,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_4_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -585,11 +585,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_5.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -635,7 +635,7 @@
 													"layer":0,
 													"position":[
 														-0.4683145,
-														0,
+														-1.421085E-16,
 														-0.4520388
 													],
 													"rotation":[
@@ -649,11 +649,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_1_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -684,11 +684,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_2_4.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_4.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -705,7 +705,7 @@
 													"layer":0,
 													"position":[
 														0.4527066,
-														0,
+														-1.421085E-16,
 														-0.4643543
 													],
 													"rotation":[
@@ -719,11 +719,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_3_4.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_4.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -754,11 +754,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_4_4.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_4.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -789,11 +789,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_7.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_7.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -839,7 +839,7 @@
 													"layer":0,
 													"position":[
 														-0.3717692,
-														0,
+														1.421085E-16,
 														-0.5407631
 													],
 													"rotation":[
@@ -853,11 +853,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_2_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -888,11 +888,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_3_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -909,7 +909,7 @@
 													"layer":0,
 													"position":[
 														0.3741531,
-														0,
+														-1.421085E-16,
 														0.5460809
 													],
 													"rotation":[
@@ -923,11 +923,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_4_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -958,11 +958,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_5_2.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_2.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -979,7 +979,7 @@
 													"layer":0,
 													"position":[
 														-0.3742371,
-														0,
+														-1.421085E-16,
 														0.5320549
 													],
 													"rotation":[
@@ -993,11 +993,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_5_3.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_3.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1014,7 +1014,7 @@
 													"layer":0,
 													"position":[
 														0.3686884,
-														0,
+														1.421085E-16,
 														-0.541798
 													],
 													"rotation":[
@@ -1028,11 +1028,11 @@
 														1,
 														1
 													],
-													"meshPath":"Assets/Prefabs/骰子金属彩色-圆柱_6.lm",
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_6.lm",
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/金属红.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1051,14 +1051,14 @@
 				"type":"Sprite3D",
 				"instanceID":29,
 				"props":{
-					"name":"骰子2",
+					"name":"骰子3",
 					"active":true,
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						1.91,
-						-0.3657384,
-						-12.34
+						-50.23355,
+						38.01,
+						1.888462
 					],
 					"rotation":[
 						0,
@@ -1102,7 +1102,7 @@
 							"enableRender":true,
 							"materials":[
 								{
-									"path":"Assets/Materials/材质.lmat"
+									"path":"Assets/Materials/2.lmat"
 								}
 							]
 						},
@@ -1136,7 +1136,7 @@
 									"enableRender":true,
 									"materials":[
 										{
-											"path":"Assets/Materials/材质.lmat"
+											"path":"Assets/Materials/1.lmat"
 										}
 									]
 								},
@@ -1197,7 +1197,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1232,7 +1232,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1296,7 +1296,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1331,7 +1331,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1366,7 +1366,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1430,7 +1430,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1465,7 +1465,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1500,7 +1500,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1535,7 +1535,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1599,7 +1599,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1634,7 +1634,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1669,7 +1669,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1704,7 +1704,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1739,7 +1739,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1803,7 +1803,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1838,7 +1838,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1873,7 +1873,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1908,7 +1908,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1943,7 +1943,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1978,7 +1978,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -1997,14 +1997,14 @@
 				"type":"Sprite3D",
 				"instanceID":57,
 				"props":{
-					"name":"骰子3",
+					"name":"骰子2",
 					"active":true,
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						11.32,
-						-5.42,
-						0.46
+						-52.82,
+						41.77,
+						14.3
 					],
 					"rotation":[
 						0,
@@ -2048,7 +2048,7 @@
 							"enableRender":true,
 							"materials":[
 								{
-									"path":"Assets/Materials/材质.lmat"
+									"path":"Assets/Materials/2.lmat"
 								}
 							]
 						},
@@ -2082,7 +2082,7 @@
 									"enableRender":true,
 									"materials":[
 										{
-											"path":"Assets/Materials/材质.lmat"
+											"path":"Assets/Materials/1.lmat"
 										}
 									]
 								},
@@ -2143,7 +2143,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2178,7 +2178,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2242,7 +2242,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2277,7 +2277,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2312,7 +2312,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2376,7 +2376,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2411,7 +2411,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2446,7 +2446,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2481,7 +2481,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2545,7 +2545,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2580,7 +2580,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2615,7 +2615,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2650,7 +2650,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2685,7 +2685,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2749,7 +2749,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2784,7 +2784,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2819,7 +2819,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2854,7 +2854,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2889,7 +2889,7 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2924,7 +2924,953 @@
 													"enableRender":true,
 													"materials":[
 														{
-															"path":"Assets/Materials/材质.lmat"
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type":"Sprite3D",
+				"instanceID":85,
+				"props":{
+					"name":"骰子1",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-46.80973,
+						35.7,
+						-15.28
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"instanceID":86,
+						"props":{
+							"name":"立方体",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								-0.007388379,
+								0,
+								-0.002637993
+							],
+							"rotation":[
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale":[
+								1,
+								1,
+								1
+							],
+							"meshPath":"Assets/Prefabs/骰子彩色-立方体.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"path":"Assets/Materials/2.lmat"
+								}
+							]
+						},
+						"components":[],
+						"child":[
+							{
+								"type":"MeshSprite3D",
+								"instanceID":87,
+								"props":{
+									"name":"圆柱",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0.002566731,
+										5.32907E-17,
+										0.9172127
+									],
+									"rotation":[
+										-0.7071068,
+										0,
+										0,
+										-0.7071068
+									],
+									"scale":[
+										1,
+										1,
+										1
+									],
+									"meshPath":"Assets/Prefabs/骰子彩色-圆柱.lm",
+									"enableRender":true,
+									"materials":[
+										{
+											"path":"Assets/Materials/1.lmat"
+										}
+									]
+								},
+								"components":[],
+								"child":[
+									{
+										"type":"Sprite3D",
+										"instanceID":88,
+										"props":{
+											"name":"2",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												-0.9727042,
+												-0.9151263,
+												0.00234763
+											],
+											"rotation":[
+												-7.850463E-17,
+												1.218024E-16,
+												-0.7071068,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":89,
+												"props":{
+													"name":"圆柱_1_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3879396,
+														0,
+														0.3681835
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":90,
+												"props":{
+													"name":"圆柱_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3879396,
+														1.136868E-15,
+														-0.3681835
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":91,
+										"props":{
+											"name":"3",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.005118228,
+												-0.9130122,
+												-0.9739817
+											],
+											"rotation":[
+												-0.7071068,
+												0,
+												0,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":92,
+												"props":{
+													"name":"圆柱_1",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.5353843,
+														-1.421085E-16,
+														-0.5303122
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":93,
+												"props":{
+													"name":"圆柱_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.007326312,
+														-1.421085E-16,
+														-0.002817812
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":94,
+												"props":{
+													"name":"圆柱_2_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.528058,
+														-1.421085E-16,
+														0.53313
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":95,
+										"props":{
+											"name":"4",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.9964682,
+												-0.9188595,
+												-0.001450431
+											],
+											"rotation":[
+												-7.850463E-17,
+												-1.218024E-16,
+												0.7071068,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":96,
+												"props":{
+													"name":"圆柱_3_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3731108,
+														0,
+														-0.3731284
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":97,
+												"props":{
+													"name":"圆柱_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3708235,
+														0,
+														-0.3732579
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":98,
+												"props":{
+													"name":"圆柱_4_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3730376,
+														0,
+														0.3727022
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":99,
+												"props":{
+													"name":"圆柱_5",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.375325,
+														0,
+														0.3736841
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":100,
+										"props":{
+											"name":"5",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.005118228,
+												-0.9130122,
+												0.9658954
+											],
+											"rotation":[
+												-0.7071068,
+												0,
+												0,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":101,
+												"props":{
+													"name":"圆柱_1_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.4683145,
+														-1.421085E-16,
+														-0.4520388
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":102,
+												"props":{
+													"name":"圆柱_2_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.4527066,
+														-1.421085E-16,
+														0.4588707
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":103,
+												"props":{
+													"name":"圆柱_3_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.4527066,
+														-1.421085E-16,
+														-0.4643543
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":104,
+												"props":{
+													"name":"圆柱_4_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.4584762,
+														-1.421085E-16,
+														0.4588707
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":105,
+												"props":{
+													"name":"圆柱_7",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.005529056,
+														-1.421085E-16,
+														-0.002817812
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_7.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":106,
+										"props":{
+											"name":"6",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.00199295,
+												-1.923278,
+												7.70059E-05
+											],
+											"rotation":[
+												0,
+												0,
+												0,
+												-1
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":107,
+												"props":{
+													"name":"圆柱_2_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3717692,
+														1.421085E-16,
+														-0.5407631
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":108,
+												"props":{
+													"name":"圆柱_3_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3742051,
+														0,
+														0.006296018
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":109,
+												"props":{
+													"name":"圆柱_4_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3741531,
+														-1.421085E-16,
+														0.5460809
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":110,
+												"props":{
+													"name":"圆柱_5_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3710403,
+														0,
+														-0.001870805
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":111,
+												"props":{
+													"name":"圆柱_5_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3742371,
+														-1.421085E-16,
+														0.5320549
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":112,
+												"props":{
+													"name":"圆柱_6",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3686884,
+														1.421085E-16,
+														-0.541798
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_6.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
 														}
 													]
 												},
@@ -2941,7 +3887,7 @@
 			},
 			{
 				"type":"DirectionLight",
-				"instanceID":85,
+				"instanceID":113,
 				"props":{
 					"name":"Directional Light",
 					"active":true,
@@ -2973,6 +3919,952 @@
 				},
 				"components":[],
 				"child":[]
+			},
+			{
+				"type":"Sprite3D",
+				"instanceID":114,
+				"props":{
+					"name":"骰子5",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-66.3,
+						37.97,
+						1.9
+					],
+					"rotation":[
+						0,
+						-0.9999985,
+						0,
+						0.001745202
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"instanceID":115,
+						"props":{
+							"name":"立方体",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								-0.007388379,
+								0,
+								-0.002637993
+							],
+							"rotation":[
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale":[
+								1,
+								1,
+								1
+							],
+							"meshPath":"Assets/Prefabs/骰子彩色-立方体.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"path":"Assets/Materials/2.lmat"
+								}
+							]
+						},
+						"components":[],
+						"child":[
+							{
+								"type":"MeshSprite3D",
+								"instanceID":116,
+								"props":{
+									"name":"圆柱",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0.002566731,
+										5.32907E-17,
+										0.9172127
+									],
+									"rotation":[
+										-0.7071068,
+										0,
+										0,
+										-0.7071068
+									],
+									"scale":[
+										1,
+										1,
+										1
+									],
+									"meshPath":"Assets/Prefabs/骰子彩色-圆柱.lm",
+									"enableRender":true,
+									"materials":[
+										{
+											"path":"Assets/Materials/1.lmat"
+										}
+									]
+								},
+								"components":[],
+								"child":[
+									{
+										"type":"Sprite3D",
+										"instanceID":117,
+										"props":{
+											"name":"2",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												-0.9727042,
+												-0.9151263,
+												0.00234763
+											],
+											"rotation":[
+												-7.850463E-17,
+												1.218024E-16,
+												-0.7071068,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":118,
+												"props":{
+													"name":"圆柱_1_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3879396,
+														0,
+														0.3681835
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":119,
+												"props":{
+													"name":"圆柱_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3879396,
+														1.136868E-15,
+														-0.3681835
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":120,
+										"props":{
+											"name":"3",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.005118228,
+												-0.9130122,
+												-0.9739817
+											],
+											"rotation":[
+												-0.7071068,
+												0,
+												0,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":121,
+												"props":{
+													"name":"圆柱_1",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.5353843,
+														-1.421085E-16,
+														-0.5303122
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":122,
+												"props":{
+													"name":"圆柱_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.007326312,
+														-1.421085E-16,
+														-0.002817812
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":123,
+												"props":{
+													"name":"圆柱_2_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.528058,
+														-1.421085E-16,
+														0.53313
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":124,
+										"props":{
+											"name":"4",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.9964682,
+												-0.9188595,
+												-0.001450431
+											],
+											"rotation":[
+												-7.850463E-17,
+												-1.218024E-16,
+												0.7071068,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":125,
+												"props":{
+													"name":"圆柱_3_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3731108,
+														0,
+														-0.3731284
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":126,
+												"props":{
+													"name":"圆柱_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3708235,
+														0,
+														-0.3732579
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":127,
+												"props":{
+													"name":"圆柱_4_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3730376,
+														0,
+														0.3727022
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":128,
+												"props":{
+													"name":"圆柱_5",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.375325,
+														0,
+														0.3736841
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":129,
+										"props":{
+											"name":"5",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.005118228,
+												-0.9130122,
+												0.9658954
+											],
+											"rotation":[
+												-0.7071068,
+												0,
+												0,
+												-0.7071068
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":130,
+												"props":{
+													"name":"圆柱_1_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.4683145,
+														-1.421085E-16,
+														-0.4520388
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_1_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":131,
+												"props":{
+													"name":"圆柱_2_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.4527066,
+														-1.421085E-16,
+														0.4588707
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":132,
+												"props":{
+													"name":"圆柱_3_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.4527066,
+														-1.421085E-16,
+														-0.4643543
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":133,
+												"props":{
+													"name":"圆柱_4_4",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.4584762,
+														-1.421085E-16,
+														0.4588707
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_4.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":134,
+												"props":{
+													"name":"圆柱_7",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.005529056,
+														-1.421085E-16,
+														-0.002817812
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_7.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									},
+									{
+										"type":"Sprite3D",
+										"instanceID":135,
+										"props":{
+											"name":"6",
+											"active":true,
+											"isStatic":false,
+											"layer":0,
+											"position":[
+												0.00199295,
+												-1.923278,
+												7.70059E-05
+											],
+											"rotation":[
+												0,
+												0,
+												0,
+												-1
+											],
+											"scale":[
+												1,
+												1,
+												1
+											]
+										},
+										"components":[],
+										"child":[
+											{
+												"type":"MeshSprite3D",
+												"instanceID":136,
+												"props":{
+													"name":"圆柱_2_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3717692,
+														1.421085E-16,
+														-0.5407631
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_2_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":137,
+												"props":{
+													"name":"圆柱_3_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3742051,
+														0,
+														0.006296018
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_3_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":138,
+												"props":{
+													"name":"圆柱_4_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3741531,
+														-1.421085E-16,
+														0.5460809
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_4_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":139,
+												"props":{
+													"name":"圆柱_5_2",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3710403,
+														0,
+														-0.001870805
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_2.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":140,
+												"props":{
+													"name":"圆柱_5_3",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														-0.3742371,
+														-1.421085E-16,
+														0.5320549
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_5_3.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											},
+											{
+												"type":"MeshSprite3D",
+												"instanceID":141,
+												"props":{
+													"name":"圆柱_6",
+													"active":true,
+													"isStatic":false,
+													"layer":0,
+													"position":[
+														0.3686884,
+														1.421085E-16,
+														-0.541798
+													],
+													"rotation":[
+														0,
+														0,
+														0,
+														-1
+													],
+													"scale":[
+														1,
+														1,
+														1
+													],
+													"meshPath":"Assets/Prefabs/骰子彩色-圆柱_6.lm",
+													"enableRender":true,
+													"materials":[
+														{
+															"path":"Assets/Materials/1.lmat"
+														}
+													]
+												},
+												"components":[],
+												"child":[]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
 			}
 		]
 	}

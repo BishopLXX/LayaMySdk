@@ -2,7 +2,7 @@
 	"version":"LAYAMATERIAL:02",
 	"props":{
 		"type":"Laya.BlinnPhongMaterial",
-		"name":"材质",
+		"name":"1",
 		"renderStates":[
 			{
 				"cull":2,

@@ -97,7 +97,24 @@
     						}
     					}.bind(this), true);
     				}
-    			},
+                },
+                
+                
+                /**
+                 * 移动偏移
+                 * @param {*} node 节点 
+                 * @param {*} offsetV3 偏移量
+                 * @param {*} duration 持续时间
+                 */
+                moveToByOffset(node, offsetV3, duration) {
+                    Laya.Tween.to(node.transform, {
+                        localPositionX : node.transform.localPositionX + offsetV3.x,
+                        localPositionY : node.transform.localPositionY + offsetV3.y,
+                        localPositionZ : node.transform.localPositionZ + offsetV3.z
+                    }, duration);
+                },
+
+
 
     			getMidVec3: function(fromPos, endPos, progress) {
     				let midPos = new Laya.Vector3();
@@ -159,6 +176,16 @@
                     TPos.y = (endPos.y - fromPos.y) * progress + fromPos.y + ((plane.indexOf("Y")>= -1) ? n : 0);
                     TPos.x = (endPos.x - fromPos.x) * progress + fromPos.x + ((plane.indexOf("X")>= -1) ? n : 0);
                     return TPos;
+                },
+
+                
+                // *** 有问题的
+                getLookAtAngle(eyesPos, targetPos, eyesAngle, eyesUp) {
+                    let Q4 = new Laya.Quaternion();
+                    let ret = new Laya.Vector3();
+                    Laya.Quaternion.lookAt(eyesPos, targetPos, eyesUp, Q4);
+                    Laya.Vector3.transformQuat(eyesAngle, Q4, ret);
+                    return ret;
                 },
 
                 /**
@@ -436,19 +463,26 @@
             this.dice1 = scene.getChildByName("骰子1");
             this.dice2 = scene.getChildByName("骰子2");
             this.dice3 = scene.getChildByName("骰子3");
+            this.dice4 = scene.getChildByName("骰子4");
+            this.dice5 = scene.getChildByName("骰子5");
 
             let start = {};
-            start.position = this.dice1.transform.position.clone();
-            start.rotationEuler = this.dice1.transform.position.clone();
-            start.fieldOfView = this.dice1.fieldOfView;
+            start.position = this.dice5.transform.position.clone();
+            start.rotationEuler = this.dice5.transform.position.clone();
+            start.fieldOfView = this.dice5.fieldOfView;
             
             let end = {};
-            end.position = this.dice2.transform.position.clone();
-            end.rotationEuler = this.dice2.transform.position.clone();
-            end.fieldOfView = this.dice2.fieldOfView;
+            end.position = this.dice4.transform.position.clone();
+            end.rotationEuler = G_DoTween.getLookAtAngle(this.dice4.transform.position, this.dice3.transform.position, this.dice5.transform.localRotationEuler, new Laya.Vector3(0,0,1));
+            console.log(end.rotationEuler);
+            end.fieldOfView = this.dice4.fieldOfView;
             let plane = G_DoTween.getAxisOfMaxDistance(start.position, end.position);
             plane = G_DoTween.getAxisOfagainst(plane);
-            G_DoTween.tweenMoveCamera(this.dice1, 2000, false, start, end, false, true, plane, null);
+            G_DoTween.tweenMoveCamera(this.dice5, 5000, false, start, end, false, true, plane, null);
+
+            //G_DoTween.moveToByOffset(this.dice3, new Laya.Vector3(0,0,5), 1000);
+            //G_DoTween.moveToByOffset(this.dice2, new Laya.Vector3(0,0,5), 1000);
+            //G_DoTween.moveToByOffset(this.dice1, new Laya.Vector3(0,0,5), 1000);
         }
     }
 

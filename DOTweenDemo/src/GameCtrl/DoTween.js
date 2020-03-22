@@ -94,7 +94,24 @@ var _DoTween = (function () {
 						}
 					}.bind(this), true)
 				}
-			},
+            },
+            
+            
+            /**
+             * 移动偏移
+             * @param {*} node 节点 
+             * @param {*} offsetV3 偏移量
+             * @param {*} duration 持续时间
+             */
+            moveToByOffset(node, offsetV3, duration) {
+                Laya.Tween.to(node.transform, {
+                    localPositionX : node.transform.localPositionX + offsetV3.x,
+                    localPositionY : node.transform.localPositionY + offsetV3.y,
+                    localPositionZ : node.transform.localPositionZ + offsetV3.z
+                }, duration);
+            },
+
+
 
 			getMidVec3: function(fromPos, endPos, progress) {
 				let midPos = new Laya.Vector3()
@@ -156,6 +173,16 @@ var _DoTween = (function () {
                 TPos.y = (endPos.y - fromPos.y) * progress + fromPos.y + ((plane.indexOf("Y")>= -1) ? n : 0);
                 TPos.x = (endPos.x - fromPos.x) * progress + fromPos.x + ((plane.indexOf("X")>= -1) ? n : 0);
                 return TPos;
+            },
+
+            
+            // *** 有问题的
+            getLookAtAngle(eyesPos, targetPos, eyesAngle, eyesUp) {
+                let Q4 = new Laya.Quaternion();
+                let ret = new Laya.Vector3();
+                Laya.Quaternion.lookAt(eyesPos, targetPos, eyesUp, Q4);
+                Laya.Vector3.transformQuat(eyesAngle, Q4, ret);
+                return ret;
             },
 
             /**

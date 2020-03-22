@@ -2,7 +2,7 @@
 	"version":"LAYAMATERIAL:02",
 	"props":{
 		"type":"Laya.BlinnPhongMaterial",
-		"name":"金属红",
+		"name":"2",
 		"renderStates":[
 			{
 				"cull":2,
@@ -43,9 +43,9 @@
 			{
 				"name":"albedoColor",
 				"value":[
-					0.77,
-					0.0308,
-					0.10472,
+					0.8544,
+					0.8555866,
+					0.89,
 					1
 				]
 			}
